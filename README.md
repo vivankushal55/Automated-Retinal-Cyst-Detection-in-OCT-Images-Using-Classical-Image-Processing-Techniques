@@ -1,17 +1,4 @@
-
-```markdown
 # 👁️ Automated Retinal Cyst Detection in OCT Images
-
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-orange)
-![Medical Imaging](https://img.shields.io/badge/Domain-Medical%20Imaging-red)
-![Status](https://img.shields.io/badge/Project-MSc%20Research-success)
-
-> Lightweight and interpretable retinal cyst segmentation system using classical image processing techniques on Optical Coherence Tomography (OCT) scans.
-
----
-
-## 📌 Overview
 
 Retinal cysts are key biomarkers in diseases such as Diabetic Macular Edema (DME) and Age-related Macular Degeneration (AMD). Manual segmentation is slow and subjective.
 
@@ -25,7 +12,7 @@ The system performs:
 
 ---
 
-## 🚀 Key Features
+# 🚀 Key Features
 
 - Classical CV-based medical segmentation
 - No GPU or large datasets required
